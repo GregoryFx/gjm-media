@@ -7,7 +7,7 @@ Annonce professionnelle – GJM AUTO
 📞 05 57 41 07 87 · 🌐 gjmauto.fr            (Instagram : 🌐 lien en bio)
 ```
 
-## 1 — Ven. 13 nov. 18h30 · C4 Hybride 145 Plus blanche (Starterre 408464)
+## 1 — Mer. 11 nov. 18h30 (avancé à la demande de Greg) · C4 Hybride 145 Plus blanche (Starterre 408464)
 🚗 CITROËN C4 Hybride 145 e-DCS6 Plus – 18 990 € TTC
 
 Mise en circulation 05/2025 · 17 787 km · hybride essence · boîte automatique · Blanc Okénite / toit noir
@@ -57,3 +57,6 @@ Mise en circulation 03/2025 · 20 414 km · hybride essence · boîte automatiqu
 
 ## Avant chaque publication
 Vérifier sur Starterre que le véhicule est toujours disponible. Retirer / modifier la publication dès qu'il est vendu ou réservé.
+
+## Statut
+Les 8 publications (4 véhicules × Facebook + Instagram) sont programmées dans Metricool (marque 1263073), autoPublish, carrousel = couverture GJM AUTO + 6 photos Starterre.
