@@ -1,0 +1,29 @@
+{
+"photos": [
+"scratchpad/vo/408359/01.jpg",
+"scratchpad/vo/408359/04.jpg",
+"scratchpad/vo/408359/06.jpg",
+"scratchpad/vo/408359/08.jpg",
+"scratchpad/vo/408359/09.jpg",
+"scratchpad/vo/408359/03.jpg"
+],
+"brand": "CITROËN",
+"model": "C4 Hybride 145",
+"version": "Plus · automatique · Noir Perla Nera",
+"badge": "Disponible sur commande",
+"captions": [
+"03/2025<br><span class='Y'>20 414 km</span>",
+"Hybride essence<br><span class='Y'>boîte auto</span>",
+"Sièges<br><span class='Y'>Advanced Comfort</span>",
+"5 places<br><span class='Y'>confort arrière</span>"
+],
+"warranty": "jusqu'en mars 2027",
+"price": "18 990",
+"specs": [
+"03/2025",
+"20 414 km",
+"Hybride",
+"Automatique"
+],
+"extra": "CarPlay sans fil · caméra de recul · clim bizone"
+}

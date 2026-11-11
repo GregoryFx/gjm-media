@@ -60,3 +60,9 @@ Vérifier sur Starterre que le véhicule est toujours disponible. Retirer / modi
 
 ## Statut
 Les 8 publications (4 véhicules × Facebook + Instagram) sont programmées dans Metricool (marque 1263073), autoPublish, carrousel = couverture GJM AUTO + 6 photos Starterre.
+
+## Reels (motion design + jingle chill, 16 s) — Facebook + Instagram, 18h30
+- Ven. 13 nov. · C4 blanche 408464 → reel-motion-c4-blanc-408464-chill.mp4
+- Jeu. 19 nov. · C4 grise 406747 → reel-motion-c4-gris-406747-chill.mp4
+- Lun. 23 nov. · Aygo X 126024700 → reel-motion-aygo-x-126024700-chill.mp4
+- Jeu. 26 nov. · C4 noire 408359 → reel-motion-c4-noir-408359-chill.mp4
