@@ -10,3 +10,10 @@
 | 2026-11-30 | Pneus en hiver | programmé dans Meta |
 | 2026-12-03 | Check-up avant les fêtes (grands trajets) | programmé dans Meta |
 | 2026-12-07 | Reprogrammation moteur – bilan d'abord | programmé dans Meta |
+| 2026-12-10 | Climatisation en hiver (désembuage) | 2026-12-10-clim-hiver (Metricool) |
+| 2026-12-14 | Essuie-glaces et lave-glace | 2026-12-14-essuie-glaces (Metricool) |
+| 2026-12-17 | Liquide de refroidissement / antigel | 2026-12-17-liquide-refroidissement (Metricool) |
+| 2026-12-21 | Révision selon le carnet constructeur | 2026-12-21-revision (Metricool) |
+| 2026-12-24 | Joyeux Noël + distribution | 2026-12-24-distribution (Metricool) |
+| 2026-12-28 | Entretien voiture hybride | 2026-12-28-hybride (Metricool) |
+| 2026-12-31 | Bonne année + contrôle technique / contre-visite | 2026-12-31-controle-technique (Metricool) |
